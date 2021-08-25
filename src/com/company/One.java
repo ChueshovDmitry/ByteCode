@@ -6,4 +6,6 @@ package com.company;
  */
 
 public class One {
+    public One() {
+    }
 }
