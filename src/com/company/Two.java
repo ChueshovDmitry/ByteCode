@@ -5,5 +5,5 @@ package com.company;
  * @project Shk
  */
 
-public class wo {
+public class Two {
 }
