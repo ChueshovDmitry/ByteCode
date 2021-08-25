@@ -8,5 +8,6 @@ package com.company;
 public class Hello {
     public Hello() {
         System.out.println("hello");
+        System.out.println("hhh");
     }
 }
